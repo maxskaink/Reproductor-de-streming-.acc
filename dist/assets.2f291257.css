@@ -32,8 +32,9 @@ body {
     padding: 0.3em;
 }
 
-.imagen_logo {
+.imagen_logo img{
     padding: 0.3em;
+    border-radius: 20%;
 }
 
 .controles_volumen {
