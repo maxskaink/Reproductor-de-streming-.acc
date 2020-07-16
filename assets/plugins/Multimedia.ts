@@ -56,9 +56,11 @@ class Multimedia {
     muteOrUnmute_volume() {
         if (this.audio.volume === 0){
             this.audio.volume = 0.5;
+            this.imagen_muteOrMute.src ="https://img.icons8.com/ios-filled/50/000000/room-sound.png";
         }else {
             this.audio.volume = 0;
             console.log(this.audio.volume);
+            this.imagen_muteOrMute.src ="https://img.icons8.com/carbon-copy/100/000000/mute.png";
         }
     }
 }
