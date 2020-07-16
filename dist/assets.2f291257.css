@@ -6,4 +6,18 @@ body {
     background-color: azure;
 }
 
+.reproductor {
+    box-sizing: border-box;
+    outline: 1px solid black;
+    padding: 1em;
+}
+
+/* mute https://img.icons8.com/carbon-copy/100/000000/mute.png */
+
+/*sound  https://img.icons8.com/ios-filled/50/000000/room-sound.png */
+
+/* PLay https://img.icons8.com/android/24/000000/play.png */
+
+/* Pause https://img.icons8.com/android/24/000000/pause.png */
+
 /*# sourceMappingURL=/assets.2f291257.css.map */
